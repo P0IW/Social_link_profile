@@ -21,9 +21,11 @@ Users should be able to:
 
 ### Screenshot
 
-![Screenshot for Mobile Devices](./assets/images/Mobile%20Devices.png)
-![Screenshot for Desktop Devices](./assets/images/Desktop%20Devices.png)
-![Screenshot for Desktop Devices](./assets/images/)
+![Screenshot for Mobile Devices](/screenshots/Mobile%20Devices.png)
+
+![Screenshot for Desktop Devices](/screenshots/Desktop%20Devices.png)
+
+![Screenshot for Active State](/screenshots/Active%20State.png)
 
 ### Links
 
